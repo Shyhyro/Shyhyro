@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+- Domaine Phoenix:
+    A website for events of two gaming community.
+
+
 <!--
 **Shyhyro/Shyhyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
