@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- Domaine Phoenix:
-    A website for events of two gaming community.
+- Domaine Phoenix: A website for events of two gaming community.
+- Shyhyro: My portfolio for projects, arts and more.
 
+⚡ Fun fact:
+- I'm a real fox! For sure!
 
 <!--
 **Shyhyro/Shyhyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
