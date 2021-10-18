@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+🟠 I'm currently in:
+- Study Formation.
+
 💻 I’m currently working on:
 - Domaine Phoenix: A website for events of two gaming community. [Break]
-- Shyhyro: My portfolio for projects, arts and more. [⏸️]
+- Shyhyro: My portfolio for projects, arts and more. [Break]
 
 
 ⚡ Fun fact:
