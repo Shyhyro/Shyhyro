@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 🟠 I'm currently in:
-- Study Formation.
+- Search for work.
 
 💻 I’m currently working on:
 - Domaine Phoenix: A website for events of two gaming community. [Break]
-- Shyhyro: My portfolio for projects, arts and more. [Break]
+- 
 
 
 ⚡ Fun fact:
-- I'm a real fox! For sure!
+- .
 
 <!--
 **Shyhyro/Shyhyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
