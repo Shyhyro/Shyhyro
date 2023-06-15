@@ -4,9 +4,7 @@
 - Search for work.
 
 💻 I’m currently working on:
-- Domaine Phoenix: A website for events of two gaming community. [Break]
-- 
-
+- .
 
 ⚡ Fun fact:
 - .
